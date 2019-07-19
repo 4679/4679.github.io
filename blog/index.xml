@@ -2,40 +2,40 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Blog on Nothing Here</title>
-    <link>https://4679.github.io/blog/</link>
+    <link>https://libnull.com/blog/</link>
     <description>Recent content in Blog on Nothing Here</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
     <lastBuildDate>Thu, 18 Aug 2016 19:20:00 +0800</lastBuildDate>
     
-	<atom:link href="https://4679.github.io/blog/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://libnull.com/blog/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>博客迁移到EC2东京机房</title>
-      <link>https://4679.github.io/move-to-aws-ec2-tokyo/</link>
+      <link>https://libnull.com/move-to-aws-ec2-tokyo/</link>
       <pubDate>Thu, 18 Aug 2016 19:20:00 +0800</pubDate>
       
-      <guid>https://4679.github.io/move-to-aws-ec2-tokyo/</guid>
+      <guid>https://libnull.com/move-to-aws-ec2-tokyo/</guid>
       <description>成年了，通过了全球付实名认证，于是充了20块，去试了试绑定AWS，结果成功了，于是就把博客搬过来咯。
 虽说限额很小，不过放个静态博客应该不是问题。</description>
     </item>
     
     <item>
       <title>高考了</title>
-      <link>https://4679.github.io/ncee/</link>
+      <link>https://libnull.com/ncee/</link>
       <pubDate>Tue, 07 Jun 2016 06:46:00 +0800</pubDate>
       
-      <guid>https://4679.github.io/ncee/</guid>
+      <guid>https://libnull.com/ncee/</guid>
       <description>真快呢(つд⊂)</description>
     </item>
     
     <item>
       <title>博客最近的一些变化</title>
-      <link>https://4679.github.io/recently-changes/</link>
+      <link>https://libnull.com/recently-changes/</link>
       <pubDate>Tue, 31 May 2016 00:00:00 +0800</pubDate>
       
-      <guid>https://4679.github.io/recently-changes/</guid>
+      <guid>https://libnull.com/recently-changes/</guid>
       <description>首先，服务器从香港主机迁回DigitalOcean旧金山机房。 虚拟主机毕竟不能折腾，连HSTS都没法开，反正从vps加载的就是几KB大的html文件，应该不会慢到哪去。
 设置了自定义Nameserver 作用就是装X😊
 用的Rage4的服务，各位也可以试试
@@ -47,19 +47,19 @@ PS: 这篇文章用的微博图床 大家觉得怎样</description>
     
     <item>
       <title>从vim转到neovim</title>
-      <link>https://4679.github.io/neovim/</link>
+      <link>https://libnull.com/neovim/</link>
       <pubDate>Sat, 23 Apr 2016 23:04:03 +0800</pubDate>
       
-      <guid>https://4679.github.io/neovim/</guid>
+      <guid>https://libnull.com/neovim/</guid>
       <description>最近从vim跟风换到了neovim，把之前vim的配置改了改，没发现什么不兼容的</description>
     </item>
     
     <item>
       <title>弄了个新图床</title>
-      <link>https://4679.github.io/new-image-host/</link>
+      <link>https://libnull.com/new-image-host/</link>
       <pubDate>Tue, 12 Apr 2016 15:21:00 +0800</pubDate>
       
-      <guid>https://4679.github.io/new-image-host/</guid>
+      <guid>https://libnull.com/new-image-host/</guid>
       <description>想起七牛还有1000代金券 不用白不用 我在看了V2EX上的这个帖子之后 我慌了 万一哪天有人来刷我怎么办
 于是 我给自己搭了个图床
 搭在OpenShift上 走Kloudsec CDN 有1G空间 也够我用了
@@ -69,10 +69,10 @@ PS: 这篇文章用的微博图床 大家觉得怎样</description>
     
     <item>
       <title>客户端加密的代码剪切板</title>
-      <link>https://4679.github.io/0bin/</link>
+      <link>https://libnull.com/0bin/</link>
       <pubDate>Sun, 10 Apr 2016 13:07:03 +0800</pubDate>
       
-      <guid>https://4679.github.io/0bin/</guid>
+      <guid>https://libnull.com/0bin/</guid>
       <description>闲着无聊想搭个代码剪切板玩玩,结果在github上发现了这货
 0bin
 亮点就是在浏览器进行AES-256加密,服务器无法获知上传的内容,并且支持阅后即焚
@@ -84,10 +84,10 @@ PS:可以粘贴图片哦</description>
     
     <item>
       <title>记一次拿下一台朝鲜服务器</title>
-      <link>https://4679.github.io/hack-a-dprk-server/</link>
+      <link>https://libnull.com/hack-a-dprk-server/</link>
       <pubDate>Wed, 06 Apr 2016 14:55:00 +0800</pubDate>
       
-      <guid>https://4679.github.io/hack-a-dprk-server/</guid>
+      <guid>https://libnull.com/hack-a-dprk-server/</guid>
       <description>4月7日更新: 三胖把网线拔了|∀ﾟ 昨晚在V2ex看到一篇帖子 当时我就震惊了
 然后我就看到了楼主发的ip段 我就决定自己动手玩玩
 楼主提到了他开启了3389端口 我就以这个为目标开始扫描
@@ -101,10 +101,10 @@ masscan 175.45.176.0/24 -p3389  有结果了 直接访问扫出来的ip 看到�
     
     <item>
       <title>换域名了</title>
-      <link>https://4679.github.io/domain-changed/</link>
+      <link>https://libnull.com/domain-changed/</link>
       <pubDate>Tue, 05 Apr 2016 15:08:00 +0800</pubDate>
       
-      <guid>https://4679.github.io/domain-changed/</guid>
+      <guid>https://libnull.com/domain-changed/</guid>
       <description>我去namesilo注册回来了(;´Д`) 之前用的.space太小众 正好今天看到了name.com首年免费的消息 吓得我立马注册了个.com的
 之前的4679.space直接301过来了 评论用disqus的工具迁移了
 淦你娘的name.com 把我账号关了 域名收回 说我滥用 玩不起就不要玩 一生黑</description>
@@ -112,10 +112,10 @@ masscan 175.45.176.0/24 -p3389  有结果了 直接访问扫出来的ip 看到�
     
     <item>
       <title>在Android上使用Linux图形界面</title>
-      <link>https://4679.github.io/linux-deploy/</link>
+      <link>https://libnull.com/linux-deploy/</link>
       <pubDate>Sat, 26 Mar 2016 18:58:03 +0800</pubDate>
       
-      <guid>https://4679.github.io/linux-deploy/</guid>
+      <guid>https://libnull.com/linux-deploy/</guid>
       <description>先上几张图 具体步骤呢
 1.先用Linux Deploy安装好系统,这个很简单,装好Busybox,在设置里选好选项一键安装就行
 2.安装好XServer XSDL,Android上的X服务器,效率比用VNC好多了
@@ -130,10 +130,10 @@ PS:图中i3的配置来自于oh-my-i3,很好看,赞一个</description>
     
     <item>
       <title>博客启用Certificate Transparency</title>
-      <link>https://4679.github.io/certificate-transparency/</link>
+      <link>https://libnull.com/certificate-transparency/</link>
       <pubDate>Tue, 01 Mar 2016 08:59:03 +0800</pubDate>
       
-      <guid>https://4679.github.io/certificate-transparency/</guid>
+      <guid>https://libnull.com/certificate-transparency/</guid>
       <description>谷歌爸爸的东西 当然要兹磁啦
 参考了这两篇文章
 为 SSL 站点启用 Certificate Transparency 功能
@@ -146,10 +146,10 @@ nginx+OpenSSL(Cloudflare的补丁)+google反代模块+Certificate Transparency�
     
     <item>
       <title>搭建了个Google反向代理</title>
-      <link>https://4679.github.io/google-mirror/</link>
+      <link>https://libnull.com/google-mirror/</link>
       <pubDate>Fri, 29 Jan 2016 16:44:45 +0800</pubDate>
       
-      <guid>https://4679.github.io/google-mirror/</guid>
+      <guid>https://libnull.com/google-mirror/</guid>
       <description>https://g.4679.space 用到了wen.lu提供的ngx_http_google_filter_module
 为了方便安装 我写了个PKGBUILD放在aur上 Arch用户可以直接安装 nginx-mainline-boringssl-google_fliter
 这个坑弃了 新的服务端 nginx-mainline-mod4679
@@ -158,10 +158,10 @@ nginx+OpenSSL(Cloudflare的补丁)+google反代模块+Certificate Transparency�
     
     <item>
       <title>博客复活了</title>
-      <link>https://4679.github.io/blog-reborn/</link>
+      <link>https://libnull.com/blog-reborn/</link>
       <pubDate>Tue, 26 Jan 2016 19:28:45 +0800</pubDate>
       
-      <guid>https://4679.github.io/blog-reborn/</guid>
+      <guid>https://libnull.com/blog-reborn/</guid>
       <description>前几天上VPS 发现我Hugo的文件夹不见了
 当时我就懵逼了 还好文章的源文件都在github
 于是在和拖延症搏斗了几天后 就有了你们现在看到的这个博客
@@ -170,19 +170,19 @@ nginx+OpenSSL(Cloudflare的补丁)+google反代模块+Certificate Transparency�
     
     <item>
       <title>oh my termux</title>
-      <link>https://4679.github.io/oh-my-termux/</link>
+      <link>https://libnull.com/oh-my-termux/</link>
       <pubDate>Fri, 08 Jan 2016 19:23:15 +0800</pubDate>
       
-      <guid>https://4679.github.io/oh-my-termux/</guid>
+      <guid>https://libnull.com/oh-my-termux/</guid>
       <description>Termux是安卓上的一款软件 能提供一个差不多能用的linux环境 值得一提的是 它带有包管理器apt 常用的软件包差不多都有 我写了个快速配置Termux的脚本 oh-my-termux</description>
     </item>
     
     <item>
       <title>干掉安卓烦人的 存储空间不足 的通知</title>
-      <link>https://4679.github.io/storage-space-running-out/</link>
+      <link>https://libnull.com/storage-space-running-out/</link>
       <pubDate>Tue, 22 Dec 2015 18:32:31 +0800</pubDate>
       
-      <guid>https://4679.github.io/storage-space-running-out/</guid>
+      <guid>https://libnull.com/storage-space-running-out/</guid>
       <description>这个通知真是太烦人了 于是干掉他
 需要ROOT权限
 安卓5.x及以下
@@ -194,10 +194,10 @@ nginx+OpenSSL(Cloudflare的补丁)+google反代模块+Certificate Transparency�
     
     <item>
       <title>一份简洁 优雅的vim配置</title>
-      <link>https://4679.github.io/vimrc/</link>
+      <link>https://libnull.com/vimrc/</link>
       <pubDate>Mon, 21 Dec 2015 19:16:05 +0800</pubDate>
       
-      <guid>https://4679.github.io/vimrc/</guid>
+      <guid>https://libnull.com/vimrc/</guid>
       <description>用心感受
 如丝般顺滑 开箱即用 遵循KISS原则
 2016-01-07  更新了 这次绝对不坑爹  2016-04-24  把vundle换成了vim-plug 优化了安装脚本</description>
@@ -205,19 +205,19 @@ nginx+OpenSSL(Cloudflare的补丁)+google反代模块+Certificate Transparency�
     
     <item>
       <title>迁移到Hugo</title>
-      <link>https://4679.github.io/move-to-hugo/</link>
+      <link>https://libnull.com/move-to-hugo/</link>
       <pubDate>Mon, 21 Dec 2015 18:30:19 +0800</pubDate>
       
-      <guid>https://4679.github.io/move-to-hugo/</guid>
+      <guid>https://libnull.com/move-to-hugo/</guid>
       <description>第二次迁移博客了 这次迁移到了Hugo 一款用go语言编写的静态博客生成器 优点是效率比Hexo高太多 之前每次生成博客需要两三秒 现在只用1秒不到 不过目前还没有用于Hexo的迁移方案 全是我手动迁移的 累死了(´_ゝ`)</description>
     </item>
     
     <item>
       <title>利用sslh在同一个端口运行nginx openvpn xmpp ssh等服务</title>
-      <link>https://4679.github.io/sslh/</link>
+      <link>https://libnull.com/sslh/</link>
       <pubDate>Wed, 16 Dec 2015 21:29:18 +0800</pubDate>
       
-      <guid>https://4679.github.io/sslh/</guid>
+      <guid>https://libnull.com/sslh/</guid>
       <description>这有什么用呢？ 某些运营商或者学校可能屏蔽了一些服务的默认端口 比如屏蔽了22端口 你就只能把ssh的监听端口改成其他的 要是更变态 开启了白名单模式呢 那样就只能通过某些端口访问了 443就是其中一个 正常人一般不会屏蔽它 但是如果通过22端口访问vps的话 启用了TLS的http服务器怎么办呢 这时候就要用到sslh了 sslh的原理很简单 通过分析数据包的特征辨别是什么协议的访问 把对同一端口不同协议的访问分流到不同的端口上
 首先是安装 对于Archlinux用户
 yaourt -S sslh  通用方法 (我没测试)
@@ -227,10 +227,10 @@ yaourt -S sslh  通用方法 (我没测试)
     
     <item>
       <title>用阿里云的免费主机转发任意端口</title>
-      <link>https://4679.github.io/port-forwarding/</link>
+      <link>https://libnull.com/port-forwarding/</link>
       <pubDate>Wed, 09 Dec 2015 18:51:30 +0800</pubDate>
       
-      <guid>https://4679.github.io/port-forwarding/</guid>
+      <guid>https://libnull.com/port-forwarding/</guid>
       <description>上次用了阿里云的免费主机转发了SS 其实转发任何端口都是可以的 这次就以SSH的默认端口22来做示范
 首先 来到TAE的控制台 点击配置管理 添加一个端口 最好访问端口和监听端口保持一致 然后记住它 （别用22 因为已经被占用了） 会提示重启 报错也没关系 手动点击重启就行
 之后进入WebSSH
@@ -248,20 +248,20 @@ screen rinetd -c /etc/rinetd.conf  这样就完成了 ssh连接vps的时候 IP�
     
     <item>
       <title>给博客做了个镜像</title>
-      <link>https://4679.github.io/mirror/</link>
+      <link>https://libnull.com/mirror/</link>
       <pubDate>Wed, 09 Dec 2015 15:56:05 +0800</pubDate>
       
-      <guid>https://4679.github.io/mirror/</guid>
+      <guid>https://libnull.com/mirror/</guid>
       <description>&amp;mdash;&amp;mdash;&amp;ndash;这里&amp;mdash;&amp;mdash;&amp;ndash;
 放在github 速度应该还不错 要是vps抽风的话 就访问这个吧</description>
     </item>
     
     <item>
       <title>服务器后端切换到H2O</title>
-      <link>https://4679.github.io/h2o/</link>
+      <link>https://libnull.com/h2o/</link>
       <pubDate>Sat, 05 Dec 2015 12:20:53 +0800</pubDate>
       
-      <guid>https://4679.github.io/h2o/</guid>
+      <guid>https://libnull.com/h2o/</guid>
       <description>H2O是一款轻量 配置简单的HTTP服务器 特色就是HTTP/2
 Archlinux用户直接从AUR安装就可以了 其他系统请自行寻找源或者编译安装
 下面是我的配置文件 可以当个示范
@@ -270,10 +270,10 @@ access-log: /dev/null error-log: /dev/null pid-file: /var/run/h2o.pid max-connec
     
     <item>
       <title>Let&#39;s Encrypt试用笔记</title>
-      <link>https://4679.github.io/lets-encrypt/</link>
+      <link>https://libnull.com/lets-encrypt/</link>
       <pubDate>Fri, 04 Dec 2015 13:27:52 +0800</pubDate>
       
-      <guid>https://4679.github.io/lets-encrypt/</guid>
+      <guid>https://libnull.com/lets-encrypt/</guid>
       <description>昨天 也就是12月3日 Let&amp;rsquo;s Encrypt项目正式启动了Public Beta 这意味着以后每个人都能用上免费的SSL证书这实在是一件大好事 下面是我的试用体验
 首先 我们要获取Let&amp;rsquo;s Encrypt的客户端
 git clone https://github.com/letsencrypt/letsencrypt cd letsencrypt  之后就可以签发证书了
@@ -289,10 +289,10 @@ systemctl stop nginx  然后就是签发证书了 （不支持泛域名）
     
     <item>
       <title>使用net-speeder缓解vps高延迟 高丢包率</title>
-      <link>https://4679.github.io/net-speeder/</link>
+      <link>https://libnull.com/net-speeder/</link>
       <pubDate>Fri, 04 Dec 2015 10:50:51 +0800</pubDate>
       
-      <guid>https://4679.github.io/net-speeder/</guid>
+      <guid>https://libnull.com/net-speeder/</guid>
       <description>net-speeder是一款开源软件 能显著降低丢包率 原理简单粗暴 就是每个包发两遍 所以 使用的流量也会翻一倍 这就要靠大家取舍了
 项目地址
 首先安装依赖 libnet， libpcap
@@ -311,10 +311,10 @@ PS:对SS也有效哦</description>
     
     <item>
       <title>利用阿里的免费服务器中转SS加速</title>
-      <link>https://4679.github.io/ss-speedup/</link>
+      <link>https://libnull.com/ss-speedup/</link>
       <pubDate>Thu, 03 Dec 2015 20:09:44 +0800</pubDate>
       
-      <guid>https://4679.github.io/ss-speedup/</guid>
+      <guid>https://libnull.com/ss-speedup/</guid>
       <description>转载 原文
 在国外的vps上架设的SS 难免会掉包 高延迟 目前比较不错的解决办法是用国内的高质量服务器进行转发 财大气粗的阿里为我们提供了免费的服务器
 前面的步骤直接看原文吧
@@ -324,19 +324,19 @@ global ulimit-n 51200 defaults log global mode tcp option dontlognull timeout co
     
     <item>
       <title>祝自己生日快乐</title>
-      <link>https://4679.github.io/birthday/</link>
+      <link>https://libnull.com/birthday/</link>
       <pubDate>Wed, 02 Dec 2015 00:12:01 +0800</pubDate>
       
-      <guid>https://4679.github.io/birthday/</guid>
+      <guid>https://libnull.com/birthday/</guid>
       <description>就十七岁了 时间过得真快</description>
     </item>
     
     <item>
       <title>用Openshift架设自己的贴吧签到站</title>
-      <link>https://4679.github.io/sign/</link>
+      <link>https://libnull.com/sign/</link>
       <pubDate>Tue, 01 Dec 2015 13:56:08 +0800</pubDate>
       
-      <guid>https://4679.github.io/sign/</guid>
+      <guid>https://libnull.com/sign/</guid>
       <description>现成的 不想动手的就用这个吧
 首先 我们得去注册个Openshift的账号 这个应该不用详细写了 大家应该都会
 登陆到控制台之后 点击大大的蓝色按钮 搜索cacti 点击它 上面的输入框是域名地址 自己想一个 下面的输入框里面换成
@@ -346,19 +346,19 @@ https://github.com/puteulanus/tieba-sign-install3  这里感谢创世神域写�
     
     <item>
       <title>转投到Hexo</title>
-      <link>https://4679.github.io/move-to-hexo/</link>
+      <link>https://libnull.com/move-to-hexo/</link>
       <pubDate>Fri, 06 Nov 2015 00:55:31 +0800</pubDate>
       
-      <guid>https://4679.github.io/move-to-hexo/</guid>
+      <guid>https://libnull.com/move-to-hexo/</guid>
       <description>迁移到了Hexo 感觉不错</description>
     </item>
     
     <item>
       <title>自购VPS搭建Shadowsocks服务器</title>
-      <link>https://4679.github.io/ss/</link>
+      <link>https://libnull.com/ss/</link>
       <pubDate>Thu, 05 Nov 2015 23:24:52 +0800</pubDate>
       
-      <guid>https://4679.github.io/ss/</guid>
+      <guid>https://libnull.com/ss/</guid>
       <description>好多丧尸都在求指导 我觉得还是写一篇教程比较好(=ﾟωﾟ)=
 首先是vps的购买 网上有很多指导挑选vps的网站 丧尸们可以挑选一款适合自己的 我用的是cheapvz的洛杉矶vps 年付75人民币 支持支付宝付款
  单核cpu 256mb内存 15G硬盘 100Mbps带宽 每月500G流量  这个价格能买到这种配置也不错了 架个ss 开个小网站还是没问题的
@@ -374,10 +374,10 @@ https://github.com/puteulanus/tieba-sign-install3  这里感谢创世神域写�
     
     <item>
       <title>用黑魔法把任意系统的vps变成Arch</title>
-      <link>https://4679.github.io/vps2arch/</link>
+      <link>https://libnull.com/vps2arch/</link>
       <pubDate>Thu, 05 Nov 2015 23:19:11 +0800</pubDate>
       
-      <guid>https://4679.github.io/vps2arch/</guid>
+      <guid>https://libnull.com/vps2arch/</guid>
       <description>作为一个有信仰的人 当然在哪都要用Arch vps也是 然而大部分vps提供商都不会有Arch这种“不稳定”的系统供我们选择 这怎么能忍 于是我找啊找 没想到真找到了办法
 https://github.com/drizzt/vps2arch
 就是它 使用方法很简单
