@@ -384,7 +384,7 @@ PS: 1. 不保证一切顺利 2. 这是一份测试过的vps的列表 这里 我�
       <pubDate>Sat, 22 Aug 2015 00:00:00 +0000</pubDate>
       
       <guid>https://libnull.com/about/</guid>
-      <description> 高三学渣已毕业 Archlinux用户 AUR 微博 邮箱 ↓  #Unix-like: dig +dnssec +short @1.2.4.8 mail.libnull.com TXT | head -n 1 #Windows: nslookup -querytype=txt mail.libnull.com 1.2.4.8  </description>
+      <description> Archlinux用户 AUR 邮箱 ↓  #Unix-like: dig +dnssec +short @1.2.4.8 mail.libnull.com TXT | head -n 1 #Windows: nslookup -querytype=txt mail.libnull.com 1.2.4.8  </description>
     </item>
     
     <item>
